@@ -120,7 +120,7 @@ export default function Resume() {
         </section>
         <hr/>
         <section>
-          <h3>VWO (Economie & Maatschappijp) @ Onze Lieve Vrouwe Lyceum, Breda</h3>
+          <h3>VWO (Economie & Maatschappij) @ Onze Lieve Vrouwe Lyceum, Breda</h3>
           <h4>1996 &mdash; 2003</h4>
         </section>
       </section>
