@@ -1,5 +1,14 @@
+:root {
+  --bg: #FAF9F2;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #3B352B;
+  }
+}
+
 body {
-  /*background-color: #fffff8;*/
   margin-left: auto;
   margin-right: auto;
   max-width: 1400px;
@@ -12,4 +21,24 @@ body {
 
 h4 {
   font-size: initial;
+}
+
+header {
+  margin-top: 5rem;
+}
+
+@media (max-width: 800px), (max-height: 1000px) {
+  header {
+    margin-top: 0;
+  }
+}
+
+header nav ul li a {
+  display: inline-block;
+  position: relative;
+}
+
+header nav ul li a::before {
+  position: absolute;
+  right: calc(100% + 3px);
 }

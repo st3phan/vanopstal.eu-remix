@@ -62,7 +62,7 @@ export default function Resume() {
             develop
             two
             new
-            projects:<br/><br/>
+            projects:</p>
             <ul>
               <li>Another NGF (Dutch Golf Federation) project. In this case it involved the front-end development for
                 NGF's new corporate website. All <strong>React</strong> components were developed
@@ -74,7 +74,6 @@ export default function Resume() {
                 using <strong>Razor</strong>, <strong>Sass</strong> and <strong>JavaScript</strong>.
               </li>
             </ul>
-          </p>
         </section>
         <hr/>
         <section>
