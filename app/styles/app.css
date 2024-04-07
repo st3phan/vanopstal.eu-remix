@@ -13,10 +13,32 @@ body {
   margin-right: auto;
   max-width: 1400px;
   width: 90%;
+  padding-bottom: 3rem;
 
   @media (min-width: 760px) {
     width: 87.5%;
   }
+}
+
+hr {
+  display: block;
+  height: 0;
+  border: none;
+  border-top: 3rem solid transparent;
+  border-bottom: 3rem solid transparent;
+  line-height: 0;
+}
+
+hr::before {
+  content: "✦✦✦";
+  color: #E1DCCF;
+  vertical-align: middle;
+  text-align: center;
+  display: block;
+}
+
+h2 {
+  margin: 3.6rem 0 2.6rem;
 }
 
 h4 {
@@ -41,4 +63,13 @@ header nav ul li a {
 header nav ul li a::before {
   position: absolute;
   right: calc(100% + 3px);
+}
+
+section {
+  margin: 0;
+  padding: 0;
+}
+
+section + section {
+  margin-top: 7rem;
 }
