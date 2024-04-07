@@ -20,6 +20,8 @@ export function Layout({ children }: { children: React.ReactNode }) {
     <head>
       <meta charSet="utf-8"/>
       <meta name="viewport" content="width=device-width, initial-scale=1"/>
+      <meta name="title" content="Stephan van Opstal — Freelance Front-end Web Developer"/>
+      <meta name="description" content="Your not so average front-end engineer. Specializes in React and Typescript."/>
       <link rel="stylesheet" href="https://unpkg.com/normalize.css"/>
       <link rel="stylesheet" href="https://unpkg.com/magick.css"/>
       <Meta/>
