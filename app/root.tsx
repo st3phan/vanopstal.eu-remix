@@ -28,20 +28,23 @@ export function Layout({ children }: { children: React.ReactNode }) {
       <Links/>
     </head>
     <body>
-      <header>
-        <h1>Stephan</h1>
-        <nav>
-          <ul>
-            <li><Link to="/">Home</Link></li>
-            <li><Link to="/resume">Resume</Link></li>
-            <li><Link to="/collections">Collections</Link></li>
-            <li><Link to="/hire-me">Hire&nbsp;me</Link></li>
-          </ul>
-        </nav>
-      </header>
-      {children}
+      <main>
+        <header>
+          <h1>Stephan</h1>
+          <nav>
+            <ul>
+              <li><Link to="/">Home</Link></li>
+              <li><Link to="/resume">Resume</Link></li>
+              <li><Link to="/collections">Collections</Link></li>
+              <li><Link to="/hire-me">Hire&nbsp;me</Link></li>
+            </ul>
+          </nav>
+        </header>
+        {children}
+      </main>
       <ScrollRestoration/>
       <Scripts/>
+
     </body>
     </html>
   );
