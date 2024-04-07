@@ -14,22 +14,18 @@ export default function Resume() {
           the
           platform with minimal disruption but also spent a significant amount of time improving the way of working.
           This involved enhancing efficiency in refinement sessions, streamlining peer review processes and
-          documenting
-          user scenarios, with a particular emphasis on expectations, to ensure that the platform was user-centric and
-          intuitive. Moreover, I played a key role in discussing and implementing API endpoints.</p>
+          writing extensive documententation. Moreover, I played a key role in discussing and implementing data endpoints endpoints.</p>
         <p>This experience has sharpened my technical skills and honed my ability to deliver high-quality work under
           tight deadlines.</p>
         <hr/>
         <h3>Front-end Developer @ Bankai</h3>
         <h4>Feb 2019 &mdash; Jun 2019 · Freelance</h4>
-        <p>Worked on the rebuild of an online platform for trading cars
-          with <strong>React</strong> and <strong>Redux</strong>. Development was done under a tight deadline and
-          after
-          pairing up with another developer we delivered.</p>
+        <p>I helped rebuilding an online platform for trading cars
+          with <strong>React</strong> and <strong>Redux</strong>. Together with another developer we worked under a tight deadline but we delivered.</p>
         <hr/>
         <h3>Front-end Developer @ We Are You</h3>
         <h4>Nov 2018 &mdash; Feb 2019 · Freelance</h4>
-        <p>At We Are You, formerly Mangrove, I got assignment to work on the new <em>We Are You</em> branding website.
+        <p>At We Are You, formerly Mangrove, I got to work on the new <em>We Are You</em> branding website.
           An
           animation intense <strong>React</strong> website that required creative solutions for presenting data from
           a <strong>JSS</strong> (Headless
