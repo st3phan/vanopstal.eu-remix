@@ -29,7 +29,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
     </head>
     <body>
       <header>
-        <h1>Stephan van Opstal</h1>
+        <h1>Stephan</h1>
         <nav>
           <ul>
             <li><Link to="/">Home</Link></li>
