@@ -1,6 +1,6 @@
 const Collections = () => {
   return (
-    <article><p><em>Coming soon.</em></p></article>
+    <article><section><p><em>Coming soon.</em></p></section></article>
   );
 };
 
