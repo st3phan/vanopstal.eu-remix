@@ -74,3 +74,8 @@ header nav ul li a::before {
 section + section {
   margin-top: 7rem;
 }
+
+.sidenote:before {
+  content: '';
+  border: initial;
+}
