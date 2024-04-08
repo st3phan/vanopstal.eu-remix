@@ -15,12 +15,13 @@ const HireMe = () => {
 
   return (
     <article>
-      <h2>Open to work</h2>
-      <p>As of April 2024 I am accepting new freelance projects.</p>
-      <h2>Contact</h2>
-      <p>The best way to contact me is to send me an email at <a href={`mailto:${email}`} rel="nofollow">{email}</a>.</p>
-      <p>Alternatively you could send me a message through <a href="https://www.linkedin.com/in/stephanvanopstal">LinkedIn</a>.
-      </p>
+      <section>
+        <h2>Open to work</h2>
+        <p>As of April 2024 I am accepting new freelance projects.</p>
+        <h2>Contact</h2>
+        <p>The best way to contact me is to send me an email at <a href={`mailto:${email}`} rel="nofollow">{email}</a>.</p>
+        <p>Alternatively you could send me a message through <a href="https://www.linkedin.com/in/stephanvanopstal">LinkedIn</a>.</p>
+      </section>
     </article>
   );
 };
