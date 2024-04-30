@@ -27,7 +27,7 @@ export default function Resume() {
         <h4>Nov 2018 &mdash; Feb 2019 · Freelance</h4>
         <p>At We Are You, formerly Mangrove, I got to work on the new <em>We Are You</em> brand website.
           An
-          animation intense <strong>React</strong> website that required creative solutions for presenting data from
+          animation intensive <strong>React</strong> website that required creative solutions for presenting data from
           a <strong>JSS</strong> (Headless
           Sitecore Javascript SDK) data source in an accessible manner.</p>
         <hr/>
