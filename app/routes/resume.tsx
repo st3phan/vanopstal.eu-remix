@@ -35,7 +35,7 @@ export default function Resume() {
         <h4>Mar 2018 &mdash; Dec 2018 · Freelance</h4>
         <p><span
           className="sidenote">My second time at CZ</span>Iquality asked me to return to CZ to help develop the Just.nl
-          website connecting a Sitecore datasource with a <strong>React</strong> heavy front-end. This project involved a lot of planning an discussing ways to solve complex problems.</p>
+          website connecting a Sitecore datasource with a <strong>React</strong> heavy front-end. This project involved a lot of planning and discussing ways to solve complex problems.</p>
         <hr/>
         <h3>Front-end Developer @ Redhotminute</h3>
         <h4>Apr 2017 &mdash; Feb 2018 · Freelance</h4>
@@ -70,7 +70,7 @@ export default function Resume() {
         <hr/>
         <h3>Front-end Developer @ Redhotminute</h3>
         <h4>Feb 2016 &mdash; Jul 2016 · Freelance</h4>
-        <p>I helped develop an app with accompanying website for the <em>NGF</em> (Dutch Golf Federation). My
+        <p>I helped develop an app with an accompanying website for the <em>NGF</em> (Dutch Golf Federation). My
           responsibility was mainly with the front-end for the responsive website. I worked closely with designers
           and Sitecore/iOS developers because it was important for the app and website to be as similar as possible. Some of the
           techniques
@@ -79,7 +79,7 @@ export default function Resume() {
         <hr/>
         <h3>Front-end Developer @ The OppCompany</h3>
         <h4>Oct 2014 &mdash; Feb 2016 · Freelance</h4>
-        <p>I worked on the iOS/Android/Windows app with accompanying website and CMS system. The hybrid app
+        <p>I worked on the iOS/Android/Windows app with an accompanying website and CMS system. The hybrid app
           (<strong>HTML5</strong>/<strong>CSS</strong>/<strong>JavaScript</strong>) was built on the Cordova
           framework.
           The back-end was built in <strong>PHP</strong> using Twig as the template engine. I was also responsible
