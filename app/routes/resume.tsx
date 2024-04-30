@@ -21,7 +21,7 @@ export default function Resume() {
         <hr/>
         <h3>Front-end Developer @ Bankai</h3>
         <h4>Feb 2019 &mdash; Jun 2019 · Freelance</h4>
-        <p>I helped rebuilding an online car-trading platform using <strong>React</strong> and <strong>Redux</strong>. Because of the tight deadline, another front-end developer was brought in. We worked closely together and managed to deliver.</p>
+        <p>I helped rebuild an online car-trading platform using <strong>React</strong> and <strong>Redux</strong>. Because of the tight deadline, another front-end developer was brought in. We worked closely together and managed to deliver.</p>
         <hr/>
         <h3>Front-end Developer @ We Are You</h3>
         <h4>Nov 2018 &mdash; Feb 2019 · Freelance</h4>
