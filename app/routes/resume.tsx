@@ -7,7 +7,7 @@ export default function Resume() {
         <h4>July 2019 &mdash; March 2024 · Freelance</h4>
         <p><span
           className="sidenote">My longest project ever</span>In my 5 years at Eneco, I was entrusted with the
-          complex but exciting task of migrating an old platform to a
+          complex but exciting task of migrating the My Eneco platform to a
           new one, which heavily relied on <strong>React</strong>, <strong>TypeScript</strong>, <strong>Testing
             Library</strong>. <strong>Sitecore</strong> was used as a CMS.</p>
         <p>I played an important role in elevating the team to the next level. I not only successfully transitioned
